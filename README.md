@@ -36,26 +36,6 @@ This image is based on [kooldev/php](https://github.com/kool-dev/docker-php), pl
 - [8.2-oci8-swoole-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/8.2-oci8-swoole-nginx/Dockerfile)
 - [8.2-oci8-swoole-nginx-prod](https://github.com/kool-dev/docker-php-oci8/blob/main/8.2-oci8-swoole-nginx-prod/Dockerfile)
 
-### 8.1
-
-- [8.1-oci8-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/8.1-oci8-nginx/Dockerfile)
-- [8.1-oci8-nginx-prod](https://github.com/kool-dev/docker-php-oci8/blob/main/8.1-oci8-nginx-prod/Dockerfile)
-
-### 8.1 with Swoole
-
-- [8.1-oci8-swoole-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/8.1-oci8-swoole-nginx/Dockerfile)
-- [8.1-oci8-swoole-nginx-prod](https://github.com/kool-dev/docker-php-oci8/blob/main/8.1-oci8-swoole-nginx-prod/Dockerfile)
-
-### 8.0
-
-- [8.0-oci8-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/8.0-oci8-nginx/Dockerfile)
-- [8.0-oci8-nginx-prod](https://github.com/kool-dev/docker-php-oci8/blob/main/8.0-oci8-nginx-prod/Dockerfile)
-
-### 8.0 with Swoole
-
-- [8.0-oci8-swoole-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/8.0-oci8-swoole-nginx/Dockerfile)
-- [8.0-oci8-swoole-nginx-prod](https://github.com/kool-dev/docker-php-oci8/blob/main/8.0-oci8-swoole-nginx-prod/Dockerfile)
-
 There are also older versions available like [7.4-oci8-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/7.4-oci8-nginx/Dockerfile), [7.4-oci8-nginx-prod](https://github.com/kool-dev/docker-php-oci8/blob/main/7.4-oci8-nginx-prod/Dockerfile).
 
 ## Environment Variables
