@@ -6,6 +6,16 @@ This image is based on [kooldev/php](https://github.com/kool-dev/docker-php), pl
 
 ## Available Tags
 
+### 8.4
+
+- [8.4-oci8-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/8.4-oci8-nginx/Dockerfile)
+- [8.4-oci8-nginx-prod](https://github.com/kool-dev/docker-php-oci8/blob/main/8.4-oci8-nginx-prod/Dockerfile)
+
+### 8.4 with Swoole
+
+- [8.4-oci8-swoole-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/8.4-oci8-swoole-nginx/Dockerfile)
+- [8.4-oci8-swoole-nginx-prod](https://github.com/kool-dev/docker-php-oci8/blob/main/8.4-oci8-swoole-nginx-prod/Dockerfile)
+
 ### 8.3
 
 - [8.3-oci8-nginx](https://github.com/kool-dev/docker-php-oci8/blob/main/8.3-oci8-nginx/Dockerfile)

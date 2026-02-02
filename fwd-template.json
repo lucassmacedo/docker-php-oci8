@@ -192,6 +192,54 @@
                     "path": "template/Dockerfile"
                 }
             ]
+        },
+        {
+            "name": "8.4-oci8-nginx-prod",
+            "data": {
+                "from": "kooldev/php:8.4-nginx-prod"
+            },
+            "files": [
+                {
+                    "name": "Dockerfile",
+                    "path": "template/Dockerfile"
+                }
+            ]
+        },
+        {
+            "name": "8.4-oci8-nginx",
+            "data": {
+                "from": "kooldev/php:8.4-nginx"
+            },
+            "files": [
+                {
+                    "name": "Dockerfile",
+                    "path": "template/Dockerfile"
+                }
+            ]
+        },
+        {
+            "name": "8.4-oci8-swoole-nginx-prod",
+            "data": {
+                "from": "kooldev/php:8.4-swoole-nginx-prod"
+            },
+            "files": [
+                {
+                    "name": "Dockerfile",
+                    "path": "template/Dockerfile"
+                }
+            ]
+        },
+        {
+            "name": "8.4-oci8-swoole-nginx",
+            "data": {
+                "from": "kooldev/php:8.4-swoole-nginx"
+            },
+            "files": [
+                {
+                    "name": "Dockerfile",
+                    "path": "template/Dockerfile"
+                }
+            ]
         }
     ]
 }

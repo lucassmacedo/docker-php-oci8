@@ -22,3 +22,7 @@ scripts:
     - docker build --pull -t kooldev/php:8.3-oci8-swoole-nginx 8.3-oci8-swoole-nginx
     - docker build --pull -t kooldev/php:8.3-oci8-swoole-nginx-prod 8.3-oci8-swoole-nginx-prod
     - docker build --pull -t kooldev/php:8.3-oci8-swoole-nginx-prod 8.3-oci8-swoole-nginx-prod
+    - docker build --pull -t kooldev/php:8.4-oci8-nginx 8.4-oci8-nginx
+    - docker build --pull -t kooldev/php:8.4-oci8-nginx-prod 8.4-oci8-nginx-prod
+    - docker build --pull -t kooldev/php:8.4-oci8-swoole-nginx 8.4-oci8-swoole-nginx
+    - docker build --pull -t kooldev/php:8.4-oci8-swoole-nginx-prod 8.4-oci8-swoole-nginx-prod
